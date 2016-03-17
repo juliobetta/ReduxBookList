@@ -25,5 +25,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 
 **Notes:**
-* Reducers are functions that return a piece of the application state.
-* Container is a React Component that has a direct connection to the state managed by Redux
+* *Reducers* are functions that return a piece of the application state.
+* *Container* is a *React Component* that has a direct connection to the state managed by *Redux*
+* A *reducer* is called when a *action* occurs
